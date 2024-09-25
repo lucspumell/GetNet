@@ -1,0 +1,142 @@
+{
+    "cardDataVisaWithOnFile": {
+      "customer_id": "customer_45678900",
+      "card_pan": "4622943120000493",
+      "card_pan_source": "ON_FILE",
+      "card_brand": "VISA",
+      "expiration_year": "2023",
+      "expiration_month": "07",
+      "security_code": "1234",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    },
+    "cardDataVisaWithManuallyEntered": {
+      "customer_id": "123.456.789-00",
+      "card_pan": "4622943120000493",
+      "card_pan_source": "MANUALLY_ENTERED",
+      "card_brand": "VISA",
+      "expiration_year": "2023",
+      "expiration_month": "07",
+      "security_code": "1234",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    },
+    "cardDataVisaWithViaApplication": {
+      "customer_id": "12345678900",
+      "card_pan": "4279227796833668",
+      "card_pan_source": "VIA_APPLICATION",
+      "card_brand": "VISA",
+      "expiration_year": "2025",
+      "expiration_month": "07",
+      "security_code": "552",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    },
+    "cardDataMasterWithOnFile": {
+      "customer_id": "customer_45678900",
+      "card_pan": "5507583858592753",
+      "card_pan_source": "ON_FILE",
+      "card_brand": "MASTERCARD",
+      "expiration_year": "2026",
+      "expiration_month": "04",
+      "security_code": "254",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    },
+    "cardDataMasterWithManuallyEntered": {
+      "customer_id": "123.456.789-00",
+      "card_pan": "5205472955181998",
+      "card_pan_source": "MANUALLY_ENTERED",
+      "card_brand": "MASTERCARD",
+      "expiration_year": "2026",
+      "expiration_month": "06",
+      "security_code": "652",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    },
+    "cardDataMasterWithViaApplication": {
+      "customer_id": "12345678900",
+      "card_pan": "5376941465939957",
+      "card_pan_source": "VIA_APPLICATION",
+      "card_brand": "MASTERCARD",
+      "expiration_year": "2025",
+      "expiration_month": "07",
+      "security_code": "846",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    },
+    "cardDataWithoutEmail": {
+      "customer_id": "12345678900",
+      "card_pan": "5376941465939957",
+      "card_pan_source": "VIA_APPLICATION",
+      "card_brand": "MASTERCARD",
+      "expiration_year": "2025",
+      "expiration_month": "07",
+      "security_code": "846",
+      "email": ""
+    },
+    "cardDataWithoutCardBrand": {
+      "customer_id": "12345678900",
+      "card_pan": "5376941465939957",
+      "card_pan_source": "VIA_APPLICATION",
+      "card_brand": "",
+      "expiration_year": "2025",
+      "expiration_month": "07",
+      "security_code": "846",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    },
+    "cardDataWithoutCardPanSource": {
+      "customer_id": "12345678900",
+      "card_pan": "5376941465939957",
+      "card_pan_source": "",
+      "card_brand": "MASTERCARD",
+      "expiration_year": "2025",
+      "expiration_month": "07",
+      "security_code": "846",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    },
+    "cardDataWithoutCardPan": {
+      "customer_id": "12345678900",
+      "card_pan": "",
+      "card_pan_source": "VIA_APPLICATION",
+      "card_brand": "MASTERCARD",
+      "expiration_year": "2025",
+      "expiration_month": "07",
+      "security_code": "846",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    },
+    "cardDataWithoutExpirationMonth": {
+      "customer_id": "12345678900",
+      "card_pan": "5376941465939957",
+      "card_pan_source": "VIA_APPLICATION",
+      "card_brand": "MASTERCARD",
+      "expiration_year": "2025",
+      "expiration_month": "",
+      "security_code": "846",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    },
+    "cardDataWithoutExpirationYear": {
+      "customer_id": "12345678900",
+      "card_pan": "5376941465939957",
+      "card_pan_source": "VIA_APPLICATION",
+      "card_brand": "MASTERCARD",
+      "expiration_year": "",
+      "expiration_month": "07",
+      "security_code": "846",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    },
+    "cardDataWithoutCustomerId": {
+      "customer_id": "",
+      "card_pan": "5376941465939957",
+      "card_pan_source": "VIA_APPLICATION",
+      "card_brand": "MASTERCARD",
+      "expiration_year": "2025",
+      "expiration_month": "07",
+      "security_code": "846",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    },
+    "cardDataWithoutSecurityCode": {
+      "customer_id": "12345678900",
+      "card_pan": "5376941465939957",
+      "card_pan_source": "VIA_APPLICATION",
+      "card_brand": "MASTERCARD",
+      "expiration_year": "2026",
+      "expiration_month": "07",
+      "security_code": "",
+      "email": "tokenizacao_bandeiras@getnet.com.br"
+    }
+  }

@@ -1,0 +1,26 @@
+{
+    "session": {
+        "client_id": "67823c6d-58de-494f-96d9-86a4c22682cb",
+        "client_secret": "c2d6a06f-5f31-448b-9079-7e170e8536e4",
+        "scope": "oob",
+        "grant_type": "client_credentials"
+    },
+    "unauthorized": {
+      "client_id": "67823c6d-58de-494f-96d9-86a4c22teste",
+      "client_secret": "c2d6a06f-5f31-448b-9079-7e170e8teste",
+      "scope": "oob",
+      "grant_type": "client_credentials"
+    },
+    "invalidData": {
+      "client_id": "67823c6d-58de-494f-96d9-86a4c22682cb",
+      "client_secret": "c2d6a06f-5f31-448b-9079-7e170e8536e4",
+      "scope": "teste",
+      "grant_type": "teste"
+    },
+    "scopeDifferent": {
+      "client_id": "67823c6d-58de-494f-96d9-86a4c22682cb",
+      "client_secret": "c2d6a06f-5f31-448b-9079-7e170e8536e4",
+      "scope": "teste",
+      "grant_type": "client_credentials"
+  }
+  }

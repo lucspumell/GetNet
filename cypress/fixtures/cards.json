@@ -1,0 +1,24 @@
+{
+    "cardSucsess": {
+        "card_number": "5155901222280001",
+        "customer_id": "customer_21081826"
+    },
+    "cardNumberHigherThanAllowed": {
+      "card_number": "51559012222800012345",
+      "customer_id": "customer_21081826"
+    },
+    "cardNumberLowerThanAllowed": {
+      "card_number": "123456789012",
+      "customer_id": "customer_21081826"
+    },
+    "cardWithoutCustomerId": {
+      "card_number": "5155901222280001"
+    },
+    "cardNotFound": {
+      "card_number": "5755901222280001",
+      "customer_id": "customer_21081826"
+    },
+    "cardWithoutCardNumber": {
+      "customer_id": "customer_21081826"
+    }
+  }
